@@ -4,21 +4,18 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [Technologies or Topics you're currently learning]
-- 👯 I’m looking to collaborate on [Projects or areas where you're looking for collaboration]
-- 💬 Ask me about [Topics you are knowledgeable about and willing to help with]
-- 📫 How to reach me: [Your email or other contact information]
-- ⚡ Fun fact: [A fun fact about you]
-
+- 🌱 I’m currently learning Artificial Intelligence
+- 👯 I’m looking to collaborate on Projects related to AI
+- 💬 Ask me about Deep Learning, AI, Data Science
+- 📫 How to reach me: vprabhat349@gmail.com
+- ⚡ Fun fact: I have a keen interest in both cybersecurity and AI
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: [List of programming languages, e.g., JavaScript, Python, Java]
-- Web Development: [Frameworks and libraries, e.g., React, Angular, Node.js]
-- Databases: [Database technologies, e.g., MySQL, MongoDB, PostgreSQL]
-- DevOps: [Tools and platforms, e.g., Docker, Kubernetes, Jenkins]
-- Others: [Any other relevant tools or technologies]
+- Programming Languages: Python, CPP
+- Databases: MySQL, MyPHPadmin
+- Others: Tableau, Power BI
 
 ## 📈 GitHub Stats
 
@@ -30,15 +27,9 @@ Here are some of the technologies and tools I work with:
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Title of your blog post](URL)
-- [Title of your blog post](URL)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/prabhatverma007/)
+- [Leet Code](https://leetcode.com/u/PrabhatVerma007/)
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 😊
